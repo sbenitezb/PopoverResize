@@ -9,8 +9,8 @@
 import Cocoa
 
 public class PopoverResize: NSPopover {
-    let SIDES_HIT = CGFloat(4)
-    let BOTTOM_HIT = CGFloat(4)
+    let SIDES_HIT = CGFloat(6)
+    let BOTTOM_HIT = CGFloat(6)
     let CORNER_HIT = CGFloat(10)
     
     private enum Region {
